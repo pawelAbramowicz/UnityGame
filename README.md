@@ -1,4 +1,4 @@
-# UnityGame
+# UnityGame - Blackies
  
 # Opis projektu
 Gra tworzona na bazie takich gier jak [The Binding of Isaac](http://pl.bindingofisaac.wikia.com/wiki/The_Binding_of_Isaac_Wiki) oraz [The Legend of Zelda](http://www.zelda.com). Gra jest w trakcie rozwoju, jednak ze względu na brak czasu, prace nad projektem zostały zawieszone, co spowodowało, że gra w dalszym ciągu posiada błędy. Przeznaczona jest ona na platformy Android oraz PC. 
