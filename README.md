@@ -10,9 +10,8 @@ Gracz porusza sie po dwuwymiarowym świecie. Każda rozgrywa jest inna ze wzglę
 * C#
 * Unity
 
-# Współpraca
-Jeśli masz chęć współpracować i wydać grę razem, zapraszam do kontaktu: pawlo118@gmail.com.
-Głównie poszukiwani graficy.
+# Film
+[Link do filmu](https://youtu.be/EYEnwiA3jfw)
 
 # Prezentacja aplikacji
 ![mainscene - game](https://user-images.githubusercontent.com/29754301/27681021-0db8df9c-5cbe-11e7-9a70-d2b4f83cbbf7.PNG)
